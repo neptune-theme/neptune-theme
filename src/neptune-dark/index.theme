@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Neptune-dark
+Type=X-GNOME-Metatheme
+Comment=
+Encoding=UTF-8
+GtkTheme=Neptune-dark
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
